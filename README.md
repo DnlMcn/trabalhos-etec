@@ -1,8 +1,12 @@
 # trabalhos-etec
+
 Repositório pessoal para organizar e efetuar trabalhos escolares da ETEC.
+-------------------------------------------------------------------------
 
-Organizado em 3 pastas, categorizando trabalhos em progresso, e subpastas para cada matéria. 
-Cada trabalho deve ser sua própria pasta, com um .txt chamado "Instrucoes," contendo uma descrição
-do que deve ser feito. Mais duas pastas, uma para materiais de referencia, e outro para arquivos 
-criados durante a efetuação do trabalho (desnecessário para trabalhos menores).
+Organizado com uma pasta para cada matéria, com mais 3 pastas dentro de cada, "Trabalhos," "Referências" e "Provas."
 
+- **Trabalhos** é onde se deve colocar **arquivos criados** durante a efetuação do trabalho, seguindo as orientações pedidas.
+- **Referências** é onde se deve colocar os arquivos enviados pelos professores como **materiais de estudo ou instruções**.
+- **Provas** é onde se deve colocar arquivos de **avaliações concluídas**, caso necessário para estudo posterior.
+
+*Autor: Danilo Mancini Queiroz de Sousa*

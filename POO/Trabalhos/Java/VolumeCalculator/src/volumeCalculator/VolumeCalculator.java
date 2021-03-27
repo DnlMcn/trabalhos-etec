@@ -113,8 +113,8 @@ public class VolumeCalculator extends JFrame implements ActionListener
 		try
 		{
 			num0 = Double.parseDouble(txtNum0.getText());
-			num1 = Double.parseDouble(txtNum0.getText());
-			num2 = Double.parseDouble(txtNum0.getText());
+			num1 = Double.parseDouble(txtNum1.getText());
+			num2 = Double.parseDouble(txtNum2.getText());
 			
 		}
 		catch (NumberFormatException CharacterError)

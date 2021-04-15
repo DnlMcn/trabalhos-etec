@@ -3,6 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+@SuppressWarnings("serial")
 public class VolumeCalculator extends JFrame implements ActionListener
 {
 	// Declaring components to be used
